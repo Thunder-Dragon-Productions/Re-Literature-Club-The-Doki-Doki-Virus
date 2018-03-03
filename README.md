@@ -10,7 +10,7 @@
 <li>Unfinished fan fiction drafts for DeviantART: https://sta.sh/2x0ii6hq2c3</li></ul>
 
 <h2>Download Instructions</h2>
-<p>At the moment, there is no stable build. However, you can download the source code as ZIP and apply the source code over a vanilla (clean) copy of <i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i> Drag the contents of the "game" folder from the downloaded ZIP of this mod to the "game" folder of the <i>Doki Doki Literature Club!</i> directory. At the moment, there is only about 30 seconds of gameplay as a test.</p>
+<p>At the moment, there is no stable build good enough to play for a while. But, you can download the source code and apply the source code over a vanilla (clean) copy of <i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i> and play what was made so far. Drag the contents of the "game" folder from the downloaded ZIP of this mod to the "game" folder of the <i>Doki Doki Literature Club!</i> directory. At the moment, there is only about 30 seconds of gameplay as a test.</p>
 
 <p>I, NejiHyuga900/TDPNeji, am still a newbie to game coding (I have made a few images and coded them in and made some title/main menu changes and some intro dialogues) and I plan on doing some crazy gameplay stuff later in the mod but just in case if it's incompatible with Ren'Py 6.99.12.4, I'm keeping things safe by writing my mod as a scripted fan fiction first. In case if this mod version fails, there will always be a scripted fan fiction to read instead.</p>
 
