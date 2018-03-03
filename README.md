@@ -18,8 +18,8 @@
 <ul><li>TDPNeji/NejiHyuga900 - Mod/Fanfic Author, Writer, Musician, Character Artist (at least for concept art as I'm not good enough to match <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle) - <a href="https://www.youtube.com/user/NejiHyuga900">YouTube</a>, <a href="https://tdpneji.deviantart.com/">DeviantART</a>, <a href="https://www.reddit.com/user/NejiHyuga900">Reddit</a>, <a href="https://soundcloud.com/thunderdragontdp">Soundcloud</a>, <a href="https://thunderdragonproductions.bandcamp.com">Bandcamp</a>, <a href="https://www.facebook.com/ThunderDragonTDP">Facebook</a> (for music), <a href="https://twitter.com/NejiHyuga900">Twitter</a></li></ul>
 
 <h3>Open roles</h3>
-<ul><li>Background Artist</li>
-<li>Character Artist (if anyone wants to improve my character drawings)</li>
+<ul><li>Background Artist (if someone loves making classrooms, bedrooms, hallways, and/or houses in Blender and can make them scary)</li>
+<li>Character Artist (if anyone wants to improve my character drawings to be near or onpar with <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle once I do concept arts)</li>
 <li>Experienced Coder (I'm only a noob)
 <ul><li>RPG Coder (I plan on turning this visual novel into a turn-based RPG much later)</li>
 <li>Rhythm Coder (Guitar Hero, DDR, or whatever rhythm style as I also plan on having a rhythm-based minigame too... I hope this is possible)</li></li></ul></ul>
