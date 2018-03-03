@@ -22,7 +22,8 @@
 <li>Character Artist (if anyone wants to improve my character drawings to be near or onpar with <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle once I do concept arts)</li>
 <li>Experienced Coder (I'm only a noob)
 <ul><li>RPG Coder (I plan on turning this visual novel into a turn-based RPG much later)</li>
-<li>Rhythm Coder (Guitar Hero, DDR, or whatever rhythm style as I also plan on having a rhythm-based minigame too... I hope this is possible)</li></li></ul></ul>
+<li>Rhythm Coder (Guitar Hero, DDR, or whatever rhythm style as I also plan on having a rhythm-based minigame too... I hope this is possible)</li></li></ul>
+<li>Sound Effects Composer (maybe)</li></ul>
 
 <h2>Copyright</h2>
 <ul><li><i>Doki Doki Literature Club!</i>: ©<a href="https://twitter.com/dansalvato">Dan Salvato</a> / <a href="http://teamsalvato.com/">Team Salvato</a></li>
