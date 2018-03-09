@@ -26,6 +26,6 @@
 <li>Sound Effects Composer (maybe)</li></ul>
 
 <h2>Copyright</h2>
-<ul><li><i>Doki Doki Literature Club!</i>: ©<a href="https://twitter.com/dansalvato">Dan Salvato</a> / <a href="http://teamsalvato.com/">Team Salvato</a></li>
+<ul><li><i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i>: ©<a href="https://twitter.com/dansalvato">Dan Salvato</a> / <a href="http://teamsalvato.com/">Team Salvato</a></li>
 <li><i>Re:Literature Club! The Doki Doki Virus</i>: ©TDPNeji/NejiHyuga900 / Thunder Dragon Productions</li>
 <li><a href="https://hackedfont.com/">HACKED font</a> for the "VIRUS" part of the ReLC!TDDV logo: <a href="https://davidlibeau.fr/">David Libeau</a></li></ul>
