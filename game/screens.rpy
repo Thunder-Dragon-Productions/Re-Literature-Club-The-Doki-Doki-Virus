@@ -245,7 +245,7 @@ image ctc:
 ##
 ## http://www.renpy.org/doc/html/screen_special.html#input
 
-image input_caret:
+init 499 image input_caret:
     Solid("#b59")
     size (2,25) subpixel True
     block:
@@ -253,31 +253,28 @@ image input_caret:
         linear 0.35 alpha 1
         repeat
 
-screen input(prompt):
+init -501 screen input(prompt):
     style_prefix "input"
 
+
     window:
+        has vbox:
+            xalign .5
+            yalign .5
+            spacing 30
 
-        vbox:
-            xpos gui.text_xpos
-            xanchor 0.5
-            ypos gui.text_ypos
+        text prompt style "input_prompt"
+        input id "input"
 
-            text prompt style "input_prompt"
-            input id "input"
-
-
-style input_prompt is default
-
-style input_prompt:
+init -1 style input_prompt:
     xmaximum gui.text_width
-    xalign gui.text_xalign
-    text_align gui.text_xalign
+    xcenter 0.5
+    text_align 0.5
 
-style input:
+init -1 style input:
     caret "input_caret"
     xmaximum gui.text_width
-    xalign 0.5
+    xcenter 0.5
     text_align 0.5
 
 
@@ -446,9 +443,9 @@ screen navigation():
             if main_menu:
 
                 if persistent.playthrough == 1:
-                    textbutton _("ŔŗñĮ¼»ŧþŀÂŻŕěōì«") action If(persistent.playername, true=Start(), false=Show(screen="name_input", message="Please enter a name for the main character", ok_action=Function(FinishEnterName)))
+                    textbutton _("ŔŗñĮ¼»ŧþŀÂŻŕěōì«") action If(persistent.playername, true=Start(), false=Show(screen="name_input", message="Please enter a name for the male main character", ok_action=Function(FinishEnterName)))
                 else:
-                    textbutton _("New Game") action If(persistent.playername, true=Start(), false=Show(screen="name_input", message="Please enter a name for the main character", ok_action=Function(FinishEnterName)))
+                    textbutton _("New Game") action If(persistent.playername, true=Start(), false=Show(screen="name_input", message="Please enter a name for the male main character", ok_action=Function(FinishEnterName)))
 
             else:
 

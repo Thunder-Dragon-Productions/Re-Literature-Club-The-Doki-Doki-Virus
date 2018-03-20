@@ -1302,15 +1302,31 @@ image monika g2:
             pause 0.2
     repeat
 
+#------------------------------------------------
+
+# Main Character 1, 0_ = Expression Box with MC1's head, 00 = Expression Box only. Use these at t21.
+image mc 00:
+    im.Composite((960, 960), (0, 0), "mod_assets/images/mc1/0.png")
+
+
 ###### Character Variables ######
 # These configure the shortcuts for writing dialog for each character.
 define narrator = Character(ctc="ctc", ctc_position="fixed")
-define mc = DynamicCharacter('player', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define mc = DynamicCharacter('player', image='mc', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define s = DynamicCharacter('s_name', image='sayori', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define m = DynamicCharacter('m_name', image='monika', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define n = DynamicCharacter('n_name', image='natsuki', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define y = DynamicCharacter('y_name', image='yuri', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 define ny = Character('Nat & Yuri', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define mn = Character('mn_name', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define sr = Character('sr_name', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define yt = Character('yt_name', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define yo = Character('yo_name', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define e = DynamicCharacter('e_name', image='erika', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define mc2 = Character('[mc2_name]', image='mc2', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define ks = DynamicCharacter('ks_name', image='koshiro', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define kai = DynamicCharacter('kai_name', image='kai', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
+define kj = DynamicCharacter('kj_name', image='koji', what_prefix='"', what_suffix='"', ctc="ctc", ctc_position="fixed")
 
 define _dismiss_pause = config.developer
 
@@ -1351,6 +1367,13 @@ default s_name = "Sayori"
 default m_name = "Monika"
 default n_name = "Natsuki"
 default y_name = "Yuri"
+default mn_name = "Manjiro"
+default sr_name = "Serena"
+default yt_name = "Yuto"
+default e_name = "Erika"
+default yo_name = "Yoshio"
+default kj_name = "Koji"
+default ks_name = "Koshiro"
 
 # Instantiating variables for poem appeal. This is how much each character likes the poem for each day.
 # -1 = Dislike, 0 = Neutral, 1 = Like

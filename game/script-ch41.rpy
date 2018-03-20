@@ -56,7 +56,7 @@ label ch41_start:
     with dissolve_scene_full
     show sayori 1a at t11
     mc "Umm... I love you all... too? Uhh...?"
-    s 1h "Heh? Umm... wasn't this game supposed to end?"
+    s 1o "Eh? Umm... Wasn't this game supposed to end?"
     show sayori at t21
     show natsuki 4b at f22
     n "What was supposed to end?"
@@ -68,6 +68,14 @@ label ch41_start:
     n "Sayori, what made you think we're in a game?"
     n 4a "Just chill."
     s "But..."
+    menu:
+        "This is gonna get confusing. Let me just...":
+            pass
+    python:
+        try: renpy.file("../characters/mc1.chr")
+        except: open(config.basedir + "/characters/mc1.chr", "wb").write(renpy.file("mc1.chr").read())
+    s "..."
+    s "..."
     return
 
 label example_chapter:

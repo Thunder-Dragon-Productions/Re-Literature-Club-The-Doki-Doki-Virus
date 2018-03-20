@@ -7,7 +7,7 @@ init -100 python:
     for archive in ['audio','images','scripts','fonts']:
         if not archive in config.archives:
             #If one is missing, throw an error and chlose
-            renpy.error("DDLC archive files not found in /game folder. Check installation and try again.")
+            renpy.error("DDLC! archive files not found in /game folder. Check installation and try again.")
 
 ## First, a disclaimer declaring this is a mod is shown, then there is a
 ## check for the original DDLC assets in the install folder. If those are
@@ -16,10 +16,10 @@ init -100 python:
 init python:
     menu_trans_time = 1
     #The default splash message, originally shown in Act 1 and Act 4
-    splash_message_default = "This game is an unofficial fan work, unaffiliated with Team Salvato."
+    splash_message_default = "This game is an unofficial fan work, unaffiliated with Team Salvato.\n\nThe story and ideas told in this fan mod should be treated as non-canon like any other fan mod and should be taken as fan theories about how the {i}DDLC!{/i} universe could work."
     #Optional splash messages, originally chosen at random in Act 2 and Act 3
     splash_messages = [
-    "Please support Doki Doki Literature Club."
+    "Please support {i}Doki Doki Literature Club!{/i}"
     "Monika is watching you code."
     ]
 
@@ -219,8 +219,9 @@ label splashscreen:
         "{i}[config.name]{/i} is a {i}Doki Doki Literature Club!{/i} fan mod that is not affiliated with Team Salvato."
         "It is designed to be played only after the official game has been completed (this includes {b}all endings{/b}), and contains spoilers for the official game"
         "as this mod serves as a non-canon sequel to the special ending of {i}Doki Doki Literature Club!{/i}"
+        "The ideas of this mod's story--including its backstory--are fan theories on how the {i}DDLC!{/i} universe could work or be interpreted; thus they are not canon."
         "Game files for {i}Doki Doki Literature Club!{/i} are required to play this mod and can be downloaded for free at: http://ddlc.moe"
-        "By playing {i}[config.name]{/i} you agree that you have completed {i}Doki Doki Literature Club!{/i} and have {b}seen all endings{/b} and accept any spoilers contained within."
+        "By playing {i}[config.name]{/i} you agree that you have completed {i}Doki Doki Literature Club!{/i} and have seen all endings and accept any spoilers contained within."
         menu:
             "Also, by agreeing to this disclaimer, you are also at least 13 years old and can handle disturbing content featured in this fan mod."
             "I agree.":
@@ -255,7 +256,7 @@ label splashscreen:
     $ splash_message = splash_message_default #Default splash message
     $ renpy.music.play(config.main_menu_music)
     show intro with Dissolve(0.5, alpha=True)
-    pause 2.5
+    pause 2.0
     hide intro with Dissolve(0.5, alpha=True)
     #You can use random splash messages, as well. By default, they are only shown during certain acts.
     if persistent.playthrough == 2 and renpy.random.randint(0, 3) == 0:
