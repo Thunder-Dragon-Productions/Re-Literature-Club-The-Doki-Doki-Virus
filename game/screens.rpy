@@ -158,7 +158,7 @@ style frame:
 ##
 ## https://www.renpy.org/doc/html/screen_special.html#say
 
-screen say(who, what):
+init -501 screen say(who, what):
     style_prefix "say"
 
     window:
@@ -384,7 +384,7 @@ screen quick_menu():
 
             #textbutton _("Back") action Rollback()
             textbutton _("History") action ShowMenu('history')
-            textbutton _("Skip") action Skip() alternate Skip(fast=True, confirm=True)
+            textbutton _("Skip") action Skip()
             textbutton _("Auto") action Preference("auto-forward", "toggle")
             textbutton _("Save") action ShowMenu('save')
             textbutton _("Load") action ShowMenu('load')
@@ -425,6 +425,7 @@ init python:
     def FinishEnterName():
         if not player: return
         persistent.playername = player
+        renpy.save_persistent()
         renpy.hide_screen("name_input")
         renpy.jump_out_of_context("start")
 
@@ -1440,13 +1441,14 @@ screen confirm(message, yes_action, no_action):
             yalign .5
             spacing 30
 
-            if in_sayori_kill and message == layout.QUIT:
-                add "confirm_glitch" xalign 0.5
+            ## Used in v1.1.0 that aren't in v1.1.1
+            # if in_sayori_kill and message == layout.QUIT:
+                # add "confirm_glitch" xalign 0.5
 
-            else:
-                label _(message):
-                    style "confirm_prompt"
-                    xalign 0.5
+            # else: [with "label _(message):" and stuff below spaced]
+            label _(message):
+                style "confirm_prompt"
+                xalign 0.5
 
             hbox:
                 xalign 0.5

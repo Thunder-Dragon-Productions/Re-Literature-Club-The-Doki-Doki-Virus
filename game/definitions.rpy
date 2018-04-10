@@ -31,13 +31,42 @@ init python:
         import os
         try: os.remove(config.basedir + "/characters/" + name + ".chr")
         except: pass
+    ## v1.1.1 additions
+    # def delete_character(name):
+        # import os
+        # try: os.remove(config.basedir + "/characters/" + name + ".chr")
+        # except: pass
+    # def restore_all_characters():
+        # try: renpy.file("../characters/monika.chr")
+        # except: open(config.basedir + "/characters/monika.chr", "wb").write(renpy.file("monika.chr").read())
+        # try: renpy.file("../characters/natsuki.chr")
+        # except: open(config.basedir + "/characters/natsuki.chr", "wb").write(renpy.file("natsuki.chr").read())
+        # try: renpy.file("../characters/yuri.chr")
+        # except: open(config.basedir + "/characters/yuri.chr", "wb").write(renpy.file("yuri.chr").read())
+        # try: renpy.file("../characters/sayori.chr")
+        # except: open(config.basedir + "/characters/sayori.chr", "wb").write(renpy.file("sayori.chr").read())
+    # def restore_relevant_characters():
+        # restore_all_characters()
+        # if persistent.playthrough == 1 or persistent.playthrough == 2:
+            # delete_character("sayori")
+        # elif persistent.playthrough == 3:
+            # delete_character("sayori")
+            # delete_character("natsuki")
+            # delete_character("yuri")
+        # elif persistent.playthrough == 4:
+            # delete_character("monika")
     def pause(time=None):
+        global _windows_hidden
         if not time:
+            _windows_hidden = True
             renpy.ui.saybehavior(afm=" ")
             renpy.ui.interact(mouse='pause', type='pause', roll_forward=None)
+            _windows_hidden = False
             return
         if time <= 0: return
+        _windows_hidden = True
         renpy.pause(time)
+        _windows_hidden = False
 
 #Music
 #The Music section is where you can reference existing DDLC audio
@@ -1390,6 +1419,14 @@ default s_readpoem = False
 default n_readpoem = False
 default y_readpoem = False
 default m_readpoem = False
+
+
+default n_read3 = False
+default y_read3 = False
+
+
+default n_poemearly = False
+
 
 # Used in poemresponse_start because it's easier than checking true/false on everyone's read state.
 default poemsread = 0
