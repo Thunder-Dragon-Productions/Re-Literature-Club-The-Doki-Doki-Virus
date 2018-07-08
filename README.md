@@ -16,14 +16,14 @@
 <p>I, NejiHyuga900/TDPNeji, am still a newbie to game coding (I have made a few images and coded them in and made some title/main menu changes and some intro dialogues) and I plan on doing some crazy gameplay stuff later in the mod but just in case if it's incompatible with Ren'Py 6.99.12.4, I'm keeping things safe by writing my mod as a scripted fan fiction first. In case if this mod version fails, there will always be a scripted fan fiction to read instead.</p>
 
 <h2>Modding Team</h2>
-<ul><li>TDPNeji/NejiHyuga900 - Mod/Fanfic Author, Writer, Musician, Character Artist (at least for concept art as I'm not good enough to match <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle) - <a href="https://www.youtube.com/user/NejiHyuga900">YouTube</a>, <a href="https://tdpneji.deviantart.com/">DeviantART</a>, <a href="https://www.reddit.com/user/NejiHyuga900">Reddit</a>, <a href="https://soundcloud.com/thunderdragontdp">Soundcloud</a>, <a href="https://thunderdragonproductions.bandcamp.com">Bandcamp</a>, <a href="https://www.facebook.com/ThunderDragonTDP">Facebook</a> (for music), <a href="https://twitter.com/NejiHyuga900">Twitter</a></li></ul>
+<ul><li>TDPNeji/NejiHyuga900 - Mod/Fanfic Author, Writer, Musician, Character Concept Artist (I'm not good enough to match <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle), RPG Designer - <a href="https://www.youtube.com/user/NejiHyuga900">YouTube</a>, <a href="https://tdpneji.deviantart.com/">DeviantART</a>, <a href="https://www.reddit.com/user/NejiHyuga900">Reddit</a>, <a href="https://soundcloud.com/thunderdragontdp">Soundcloud</a>, <a href="https://thunderdragonproductions.bandcamp.com">Bandcamp</a>, <a href="https://www.facebook.com/ThunderDragonTDP">Facebook</a> (for music), <a href="https://twitter.com/NejiHyuga900">Twitter</a></li></ul>
 
 <h3>Open roles</h3>
 <ul><li>Background Artist (if someone loves making classrooms, bedrooms, hallways, and/or houses in Blender and can make them scary)</li>
 <li>Character Artist (if anyone wants to improve my character drawings to be near or onpar with <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle once I do concept arts)</li>
 <li>Experienced Coder (I'm only a noob)
-<ul><li>RPG Coder (I plan on turning this visual novel into a turn-based RPG much later)</li>
-<li>Rhythm Coder (Guitar Hero, DDR, or whatever rhythm style as I also plan on having a rhythm-based minigame too... I hope this is possible)</li></li></ul>
+<ul><li>RPG Coder (I plan on turning this visual novel into a turn-based RPG much later and I wonder if anyone would like to assist me in RPG Maker MV)</li>
+<li>Rhythm Coder (Guitar Hero, DDR, or whatever rhythm style as I also plan on having a rhythm-based minigame too... I hope this is possible in RPG Maker MV)</li></li></ul>
 <li>Sound Effects Composer (maybe)</li></ul>
 
 <h2>Copyright</h2>
