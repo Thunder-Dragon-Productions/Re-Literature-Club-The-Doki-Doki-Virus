@@ -23,7 +23,7 @@
 <li>Character Artists - If anyone wants to improve my character drawings to be near or onpar with <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle once I do concept arts. NOTE: I will need A LOT of character artists with the amount of characters I have and some who aren't afraid of drawing heavily injured or deceased characters.</li>
 <li>Experienced Coder(s) (I'm only a noob)
 <ul><li>RPG Coder (I plan on turning this visual novel into a turn-based RPG much later and I wonder if anyone would like to assist me in RPG Maker MV. Maybe making plugins. Well, most YEP Plugins got me covered.)</li>
-<li><spoiler>RPG Level Designer(s) (May need help drawing tiles/assets for the RPG section.)</spoiler></li>
+<li>RPG Level Designer(s) (May need help drawing tiles/assets for the RPG section.)</li>
 <li>Rhythm Coder (Guitar Hero, DDR, or whatever rhythm style as I also plan on having a rhythm-based minigame too... I hope this is possible in RPG Maker MV)</li></li></ul>
 <li>Sound Effects Composer (maybe)</li></ul>
 
