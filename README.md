@@ -8,7 +8,8 @@
 <ul><li><i>Re:Literature Club! The Doki Doki Virus</i> Discord server: https://discord.gg/B8ExbUh</li>
 <li>DDLC! Mod Reddit page: Not created yet</li>
 <li>Fan fiction version on DeviantART: https://tdpneji.deviantart.com/gallery/65321344/Re-Literature-Club-The-Doki-Doki-Virus</li>
-<li>Unfinished fan fiction drafts for DeviantART: https://sta.sh/2x0ii6hq2c3</li></ul>
+<li>Unfinished fan fiction drafts for DeviantART: https://sta.sh/2x0ii6hq2c3</li>
+<li><i>Re:Literature Club! The Doki Doki Virus</i> Wiki: https://relctddv.fandom.com/wiki/Re:Literature_Club!_The_Doki_Doki_Virus_Wiki</ul>
 
 <h2>Download Instructions</h2>
 <p>At the moment, there is no stable build good enough to play for a while. But, you can download the source code and apply the source code over a vanilla (clean) copy of <i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i> and play what was made so far. Drag the contents of the "game" folder from the downloaded ZIP of this mod to the "game" folder of the <i>Doki Doki Literature Club!</i> directory. At the moment, there is only about 30 seconds of gameplay as a test.</p>
@@ -20,7 +21,7 @@
 
 <h3>Open roles</h3>
 <ul><li>Background Artists - If you love making classrooms, bedrooms, hallways, and/or houses in Blender and can make them scary. NOTE: I'll need some/a lot of BG artists with at least some not being afraid of drawing bloody/dark backgrounds/scenes.</li>
-<li>Character Artists - If anyone wants to improve my character drawings to be near or onpar with <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle once I do concept arts. NOTE: I will need A LOT of character artists with the amount of characters I have and some who aren't afraid of drawing heavily injured or deceased characters.</li>
+<li>Character Artists - If anyone wants to improve my character drawings to be near or onpar with <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle once I do concept arts. NOTE: I will need A LOT of character artists with the huge amount of characters I have and some who aren't afraid of drawing heavily injured or deceased characters.</li>
 <li>Experienced Coder(s) (I'm only a noob)
 <ul><li>RPG Coder (I plan on turning this visual novel into a turn-based RPG much later and I wonder if anyone would like to assist me in RPG Maker MV. Maybe making plugins. Well, most YEP Plugins got me covered.)</li>
 <li>RPG Level Designer(s) (May need help drawing tiles/assets for the RPG section.)</li>
