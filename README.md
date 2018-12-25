@@ -5,8 +5,11 @@
 <p><i><b>Re:Literature Club! The Doki Doki Virus</i></b> (abbreviated as ReLC!TDDV, ReLC!, or TDDV) is a non-profit romance-to-horror story-based fan mod and <a href="https://sta.sh/2x0ii6hq2c3">scripted fan fiction series</a> created by TDPNeji/NejiHyuga900 for Team Salvato's 2017 visual novel <i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i> This mod serves as a non-canon fan sequel and continuation to the "special ending" of <i>Doki Doki Literature Club!</i> and thus, should be played after the player acquires the <b>special ending</b> by seeing all CGs in a single playthrough (via saving and reloading to the first poem before the end of Act I a few times).</p>
 
 <h2>Related Links</h2>
+Social links
 <ul><li><i>Re:Literature Club! The Doki Doki Virus</i> Discord server: https://discord.gg/B8ExbUh</li>
-<li>DDLC! Mod Reddit page: Not created yet</li>
+<li><i>Re:Literature Club! The Doki Doki Virus</i> Subreddit: https://www.reddit.com/r/relctddv/</li></ul>
+Project links
+<ul><li>DDLC! Mod Reddit page: Not created yet</li>
 <li>Fan fiction version on DeviantART: https://tdpneji.deviantart.com/gallery/65321344/Re-Literature-Club-The-Doki-Doki-Virus</li>
 <li>Unfinished fan fiction drafts for DeviantART: https://sta.sh/2x0ii6hq2c3</li>
 <li><i>Re:Literature Club! The Doki Doki Virus</i> Wiki: https://relctddv.fandom.com/wiki/Re:Literature_Club!_The_Doki_Doki_Virus_Wiki</ul>
