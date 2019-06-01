@@ -10,8 +10,8 @@ Social links
 <li><i>Re:Literature Club! The Doki Doki Virus</i> Subreddit: https://www.reddit.com/r/relctddv/</li></ul>
 Project links
 <ul><li>DDLC! Mod Reddit page: Not created yet</li>
-<li>Fan fiction version on DeviantART: https://tdpneji.deviantart.com/gallery/65321344/Re-Literature-Club-The-Doki-Doki-Virus</li>
-<li>Unfinished fan fiction drafts for DeviantART: https://sta.sh/2x0ii6hq2c3</li>
+<li>Fanfiction version on DeviantART: https://tdpneji.deviantart.com/gallery/65321344/Re-Literature-Club-The-Doki-Doki-Virus</li>
+<li>Unpublished drafts on Sta.sh (WARNING: Spoilers): https://sta.sh/2x0ii6hq2c3</li>
 <li><i>Re:Literature Club! The Doki Doki Virus</i> Wiki: https://relctddv.fandom.com/wiki/Re:Literature_Club!_The_Doki_Doki_Virus_Wiki</ul>
 
 <h2>Download Instructions</h2>
