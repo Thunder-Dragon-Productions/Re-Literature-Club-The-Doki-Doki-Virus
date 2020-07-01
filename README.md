@@ -20,7 +20,7 @@ Project links
 <p>At the moment, there is no stable build good enough to play for a while. But, you can download the source code (latest release would always be from "Clone or Download") and apply the source code over a vanilla (clean) copy of <i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i> and play what was made so far. Drag the contents of the "game" folder from the downloaded ZIP of this mod to the "game" folder of the <i>Doki Doki Literature Club!</i> directory.</p>
 
 <h2>Modding Team</h2>
-<ul><li>TDPNeji/NejiHyuga900 - Mod/Fanfic Author, Writer, Musician, Character Concept Artist (I'm not good enough to match <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle), RPG Designer - <a href="https://www.youtube.com/user/NejiHyuga900">YouTube</a>, <a href="https://tdpneji.deviantart.com/">DeviantART</a>, <a href="https://www.reddit.com/user/NejiHyuga900">Reddit</a>, <a href="https://soundcloud.com/thunderdragontdp">Soundcloud</a>, <a href="https://thunderdragonproductions.bandcamp.com">Bandcamp</a>, <a href="https://www.facebook.com/ThunderDragonTDP">Facebook</a> (for music), <a href="https://twitter.com/NejiHyuga900">Twitter</a></li></ul>
+<ul><li>ThunderDragonRandy - Mod/Fanfic Author, Writer, Musician, Character Concept Artist (I'm not good enough to match <a href="https://satchely.deviantart.com/">Satchely</a>'s artstyle), RPG Designer - <a href="https://www.youtube.com/user/NejiHyuga900">YouTube</a>, <a href="https://tdpneji.deviantart.com/">DeviantART</a>, <a href="https://www.reddit.com/user/NejiHyuga900">Reddit</a>, <a href="https://soundcloud.com/thunderdragontdp">Soundcloud</a>, <a href="https://thunderdragonproductions.bandcamp.com">Bandcamp</a>, <a href="https://www.facebook.com/ThunderDragonTDP">Facebook</a> (for music), <a href="https://twitter.com/NejiHyuga900">Twitter</a></li></ul>
 
 <h3>Open roles (if development resumes again and stays actively developed)</h3>
 <ul><li>Background Artists - If you love making classrooms, bedrooms, hallways, and/or houses in Blender and can make them scary. NOTE: I'll need some/a lot of BG artists with at least some not being afraid of drawing bloody/dark backgrounds/scenes.</li>
@@ -48,5 +48,5 @@ It will be an extremely hard challenge for any artist to do all of the required 
 
 <h2>Copyright</h2>
 <ul><li><i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i>: ©<a href="https://twitter.com/dansalvato">Dan Salvato</a> / <a href="http://teamsalvato.com/">Team Salvato</a></li>
-<li><i>Re:Literature Club! The Doki Doki Virus</i>: ©TDPNeji/NejiHyuga900 / Thunder Dragon Productions</li>
+<li><i>Re:Literature Club! The Doki Doki Virus</i>: ©ThunderDragonRandy / Thunder Dragon Productions</li>
 <li><a href="https://hackedfont.com/">HACKED font</a> for the "VIRUS" part of the ReLC!TDDV logo: <a href="https://davidlibeau.fr/">David Libeau</a></li></ul>
