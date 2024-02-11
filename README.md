@@ -14,7 +14,7 @@ Project links
 <ul><li>DDLC! Mod Reddit page: Not created yet</li>
 <li>Fanfiction version on Archive of Our Own: https://archiveofourown.org/works/28112514/chapters/68880819</li>
 <li>Unpublished drafts on Sta.sh (WARNING: Spoilers): https://sta.sh/2x0ii6hq2c3</li>
-<li><i>Re:Literature Club! The Doki Doki Virus</i> Wiki (WARNING: Spoilers): https://relctddv.fandom.com/wiki/Re:Literature_Club!_The_Doki_Doki_Virus_Wiki<ul><li>Fanfiction version on ReLC!TDDV Wiki (Chapter 1): https://archiveofourown.org/works/28112514/chapters/68880819</li></li></ul></ul>
+<li><i>Re:Literature Club! The Doki Doki Virus</i> Wiki (WARNING: Spoilers): https://relctddv.fandom.com/wiki/Re:Literature_Club!_The_Doki_Doki_Virus_Wiki<ul><li>Fanfiction version on ReLC!TDDV Wiki (Chapter 1's script): https://relctddv.fandom.com/wiki/Chapter_1:_Tuesday_(Act_IV_special_ending_continuation)/Script (if reading here as your first read, stay within the chapter script pages and avoid everything else on the wiki)</li></li></ul></ul>
 
 <h2>Download Instructions</h2>
 <p>At the moment, there is no stable build good enough to play for a while. But, you can download the source code (latest release would always be from "Clone or Download") and apply the source code over a vanilla (clean) copy of <i><a href="http://ddlc.moe/">Doki Doki Literature Club!</a></i> and play what was made so far. Drag the contents of the "game" folder from the downloaded ZIP of this mod to the "game" folder of the <i>Doki Doki Literature Club!</i> directory.</p>
